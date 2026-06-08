@@ -1,6 +1,6 @@
 # NodePort Viewer 
 
-## Tool for display used nodeports in kubernetes cluster
+## Tool for display used nodeports in kubernetes cluster as webpage
 
 ```
 Used Kubernetes NodePorts
