@@ -43,6 +43,7 @@ The application consists of:
 MIT License
 
 
+
 ```
 Used Kubernetes NodePorts
 Page refreshes every 15 seconds.
